@@ -1,0 +1,6 @@
+* Variables: se re fiere a un espacio donde se puede almacenar valores
+ * Strings: es una cadena de palabras
+ * Funciones (argumentos, `return`): donde se calcula los valores
+ * Declaraciones `if`: se usa para pregunarse si cumple o no con las condiciones
+ * Valores booleanos (`true`, `false`): se utiliza para verificar si es verdadero o falso
+ 
